@@ -41,7 +41,8 @@ javac Main.java
 
 ## Demo 
 
-Input contact information
+Input contact information:-
+
 ![image](https://github.com/DhruvN58/Phone-Book-Directory-Java-Application-with-GUI/assets/73662082/78ec36a4-2935-4ed9-902b-99c9197af92d)
 
 ![image](https://github.com/DhruvN58/Phone-Book-Directory-Java-Application-with-GUI/assets/73662082/c64542b7-db5a-4bc8-8448-4c91863d3bfb)
