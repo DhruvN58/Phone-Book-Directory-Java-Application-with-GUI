@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextCellEditor
+comment1.params=frame\ tableModel
+comment1.target=TextCellEditor(PhoneBookFrame,\ ContactsTableModel)
+comment2.params=table\ value\ isSelected\ row\ column
+comment2.target=java.awt.Component\ getTableCellEditorComponent(javax.swing.JTable,\ java.lang.Object,\ boolean,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.Object\ getCellEditorValue()
+numComments=4

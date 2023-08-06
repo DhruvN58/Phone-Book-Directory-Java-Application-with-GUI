@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PhoneBookFrame
+comment1.params=
+comment1.target=PhoneBookFrame()
+comment2.params=
+comment2.target=void\ frameProperties()
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=void\ createMenu()
+comment5.params=
+comment5.target=void\ createButtons()
+comment6.params=
+comment6.target=void\ createTable()
+comment7.params=
+comment7.target=boolean\ getSavedData()
+comment8.params=aIsSavedData
+comment8.target=void\ setSavedData(boolean)
+numComments=9
